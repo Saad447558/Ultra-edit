@@ -18,10 +18,11 @@ This is a **static web page project** that replicates the download page layout f
 
 - HTML5
 - CSS3 (with Grid & Flexbox)
-- PHP file structure (basic use — not dynamic)
 - Git & GitHub for version control
 
 ---
+How to run it:
+just simply download the project and open the index.html in you browser.
 
 ## 📸 Preview
 
